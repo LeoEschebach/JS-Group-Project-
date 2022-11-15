@@ -1,4 +1,4 @@
-# JS-Group-Project-
+# JS-Group-Project
 
 ## Instructions
 
