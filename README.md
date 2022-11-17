@@ -4,7 +4,7 @@
 
 The purpose of this repository is to complete a group project providing three webpages including our skills in JavaScript DOM. The group project may be viewed by clicking on the "GroupJSDOM" folder.
 
-Tools/Languages used: JavaScript, HTML, CSS, Bootstrap.
+Tools/Languages used: JavaScript, HTML, Bootstrap.
 
 ## Instructions
 
